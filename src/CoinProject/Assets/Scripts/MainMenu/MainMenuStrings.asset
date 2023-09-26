@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac48b06752ed7448a930fda21c85a4b, type: 3}
+  m_Name: MainMenuStrings
+  m_EditorClassIdentifier: 
+  claimFreeCoin: Claim Free Coin
+  coinDisplayFormat: 'Coins: {0}'
+  getExtraCoinFormat: Get Extra Coin {0}/{1}
+  extraCoinAvailableInFormat: 'Extra Coin Available in: {0:hh\:mm\:ss}'
+  dailyBonusInFormat: 'Daily bonus in: {0:hh\:mm\:ss}'
